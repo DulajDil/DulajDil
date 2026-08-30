@@ -33,19 +33,9 @@
 ###
 
 <p align="left">
-I'm from Brisbane, Australia 🇦🇺<br><br>
-
 - 🔭 I'm currently working as a Full Stack Software Developer<br>
-- 📚 I'm currently learning AWS architecture best practices, DevOps, and Generative AI<br>
 - ⚡ In my free time I enjoy building apps, exploring new tech and car projects in youtube and working on personal projects
 </p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
 
 
 ###
